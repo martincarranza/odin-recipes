@@ -1,1 +1,4 @@
-# odin-recipes
+Basic Recipe Website
+
+HTML and Git practice
+
