@@ -1,0 +1,24 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+    margin: 0 auto;
+    padding: 10px;
+    width: 500px;
+}
+
+.list {
+    background-color: #e3f4ff;
+    margin: 0 auto;
+    padding: 10px;
+    width: 300px;
+}
+
+li {
+    padding: 5px;
+}
